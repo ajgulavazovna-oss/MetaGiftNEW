@@ -30,7 +30,7 @@ app.get('/', (req, res) => {
 initializeDatabase();
 
 // Telegram Bot Configuration
-const BOT_TOKEN = process.env.BOT_TOKEN || '7867539237:AAF2j0xWMlBNKEf6HBklZzxgMC6cPEEhX8I';
+const BOT_TOKEN = process.env.BOT_TOKEN || '8479679589:AAH2A1HjhyYA2uPgOtl-y86n1L-a9fa4oQc';
 
 // Handle Telegram webhook
 app.post('/webhook', (req, res) => {
