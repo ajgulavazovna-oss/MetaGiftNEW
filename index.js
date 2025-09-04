@@ -64,7 +64,7 @@ app.post('/webhook', (req, res) => {
           {
             text: "🛍️ Открыть магазин",
             web_app: {
-              url: "https://metagiftnew.onrender.com/"
+              url: "https://metagiftnew1.onrender.com/"
             }
           }
         ]]
